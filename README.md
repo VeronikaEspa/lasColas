@@ -1,4 +1,4 @@
-# pyColas
+# pyColas (Veronika Esparragoza)
 
 El centro comercial CF de El Alisal trabaja de 9 de la mañana a 9 de la noche vendiendo diversos artículos. Para la gestión de la venta dispone de 4 cajas que van atendiendo a los clientes, que a su vez van situándose en cola conforme concluyen sus compras esperando una caja vacía que les atienda.
 
